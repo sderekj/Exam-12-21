@@ -1,4 +1,4 @@
-package nyc.c4q.dereksantos.exam_12_21;
+package nyc.c4q.dereksantos.exam_12_21.android;
 
 import android.graphics.Color;
 import android.support.v7.widget.RecyclerView;
@@ -7,6 +7,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
+import nyc.c4q.dereksantos.exam_12_21.R;
 import nyc.c4q.dereksantos.exam_12_21.backend.Animal;
 
 public class AnimalViewHolder extends RecyclerView.ViewHolder {

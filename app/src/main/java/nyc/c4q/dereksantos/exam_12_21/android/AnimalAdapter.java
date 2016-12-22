@@ -1,4 +1,4 @@
-package nyc.c4q.dereksantos.exam_12_21;
+package nyc.c4q.dereksantos.exam_12_21.android;
 
 import android.support.v7.widget.RecyclerView;
 import android.view.ViewGroup;

@@ -1,4 +1,4 @@
-package nyc.c4q.dereksantos.exam_12_21;
+package nyc.c4q.dereksantos.exam_12_21.android;
 
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
@@ -10,6 +10,7 @@ import android.view.ViewGroup;
 
 import java.util.List;
 
+import nyc.c4q.dereksantos.exam_12_21.R;
 import nyc.c4q.dereksantos.exam_12_21.backend.Animal;
 import nyc.c4q.dereksantos.exam_12_21.backend.AnimalApi;
 import nyc.c4q.dereksantos.exam_12_21.backend.AnimalResponse;
