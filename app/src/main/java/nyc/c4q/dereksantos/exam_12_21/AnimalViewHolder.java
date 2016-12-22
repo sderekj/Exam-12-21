@@ -28,7 +28,7 @@ public class AnimalViewHolder extends RecyclerView.ViewHolder {
     public void bind(final Animal animal) {
         nameTextView.setText(animal.getName());
 
-        // default TextColor for null cases
+        // Sets default TextColor for null cases, if any
         String animalTextColor = animal.getTextColor();
         if (animalTextColor == null) {
             nameTextView.setTextColor(Color.parseColor("black"));
